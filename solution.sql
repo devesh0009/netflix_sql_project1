@@ -70,7 +70,6 @@ where
 
 4.  Find top 5  countries with the most content on netflix 
 
-
 select
     unnest(string_to_array (country, ' ,')) as new_country ,
 	count(show_id) as  total_content
@@ -203,11 +202,4 @@ select
   group by 1
 
 
-
-
-
-
-
-
-
- 
+-- end---
