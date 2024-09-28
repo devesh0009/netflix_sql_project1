@@ -2,6 +2,7 @@
 
 ![Netflix Logo ](https://github.com/devesh0009/netflix_sql_project1/blob/main/logo.png)
 
+Project Category: Advanced
 
 #Overview
 
